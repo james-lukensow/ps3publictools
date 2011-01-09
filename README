@@ -1,0 +1,5 @@
+make_self_npdrm makes valid NPDRM selfs from elfs
+it does not contain any info on decrypting or removing NPDRM
+NPDRM is required for interoperability of our homebrew applications
+package_finalize turns your debug packages into psuedoretail packages
+psuedoretail packages install on a geohot jailbroken PS3
